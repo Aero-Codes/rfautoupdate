@@ -5,7 +5,7 @@ DataTable/en-gb/NDItemCash.edf 543173745a75f9f5a469986e722e012092b079d9
 DataTable/en-gb/NDLanguage.edf 069a73dbfe37a8a05162fbcb23b16df95c442cd3
 DataTable/en-gb/NDQuest.edf 4a96af8875366b4b3b6edff518d58008adb737e8
 DataTable/en-gb/NDSkillForce.edf b8e3622a0cfd8670ca543c328b46d8959ec8d85a
-DataTable/en-gb/NDStore.edf a5a74e6fb46758986dec52f77d8b80415506856e
+DataTable/en-gb/NDStore.edf f1e10bffc581e3da054d46223ba1cf8111b2bd99
 DataTable/Item.edf c4b0f7ff05c172e37715f1db9afb5f34e9a74810
 DataTable/ItemCash.edf 5bf01df90aa8ddd758de3b44a65b1f2a7ff0fb64
 DataTable/ItemCombine.edf f63a3206d81de582c3b42c6925ea954ad5556410
@@ -16,4 +16,4 @@ DataTable/PlayerCharacter.edf a83aa6631a393383216cf62c6676aa84e350ed9c
 DataTable/Quest.edf 247d5b21dc144294498843ff242096ecf72163c3
 DataTable/Resource.edf 6cd230f23028692e8764a179970e3ff7a42aecb6
 DataTable/SkillForce.edf 45954f28076dbee63ad600e010042fc256036a2e
-DataTable/Store.edf 18146a4d8e97998570c5041c478335974418447f
+DataTable/Store.edf ce6d1205149ce48bd8adc53dd65e7c4faeea42ba
